@@ -4,6 +4,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-teal?style=flat&logo=arduino)
 ![Status](https://img.shields.io/badge/Status-Prototype%20Verified-success)
 
+※現在の研究テーマとは異なります
+
 ## 1. Project Overview
 汎用的なWebカメラ（30fps）とLEDを用いた可視光通信システムのプロトタイプ開発プロジェクト。
 本段階では、**フレーム間通信（Frame-Based Communication）** による基礎システムの構築を完了し、距離50cm〜150cmの実環境下における通信特性を検証しました。現在は、より高速な通信を実現するためのRolling Shutter方式への移行フェーズにあります。
